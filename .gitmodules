@@ -1,0 +1,9 @@
+[submodule "ReactBasics"]
+	path = ReactBasics
+	url = https://github.com/BarbaraJoebstl/ReactBasics
+[submodule "would-you-rather"]
+	path = would-you-rather
+	url = https://github.com/BarbaraJoebstl/would-you-rather
+[submodule "super-cards"]
+	path = super-cards
+	url = https://github.com/BarbaraJoebstl/super-cards
