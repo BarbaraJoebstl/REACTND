@@ -11,3 +11,5 @@
 ## 3. [mobile Flashcards](https://github.com/BarbaraJoebstl/super-cards)
 - Built a cross-platform (iOS and Android) mobile application that allows users to create and organize collections of flashcards. 
 - Leveraged React Native to manage infinite lists, routing, and user input.
+
+[react-nd.pdf](https://github.com/BarbaraJoebstl/REACTND/files/3855556/react-nd.pdf)
